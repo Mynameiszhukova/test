@@ -2,4 +2,4 @@
 /logs/*.*
 /docs/*.xls
 /*.lst
-/*.tgz
+*.tgz
